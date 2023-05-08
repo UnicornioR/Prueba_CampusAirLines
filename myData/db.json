@@ -1,0 +1,49 @@
+{
+  "flota": [],
+  "ruta": [
+    {
+      "nr": "",
+      "ciudadorg": "",
+      "ciudaddes": "",
+      "tmr": "",
+      "vmr": "",
+      "id": 1
+    }
+  ],
+  "personal": [],
+  "customer": [
+    {
+      "cc": "8888",
+      "nombres": "Azul",
+      "apellidos": "Valencia",
+      "telefono": "5544545",
+      "email": "azulv@gmail.com",
+      "paisorg": "USA",
+      "fechanac": "2023-05-18",
+      "ciudadorg": "Chicago",
+      "id": 1
+    },
+    {
+      "cc": "4545",
+      "nombres": "Sara",
+      "apellidos": "Suarez",
+      "telefono": "5245",
+      "email": "sdhs@gmail.com",
+      "paisorg": "Colombia",
+      "fechanac": "2023-05-19",
+      "ciudadorg": "Bucaramanga",
+      "id": 2
+    },
+    {
+      "cc": "657645",
+      "nombres": "Camila",
+      "apellidos": "Rincón",
+      "telefono": "4245248",
+      "email": "cami@gmail.com",
+      "paisorg": "Colombia",
+      "fechanac": "2023-05-24",
+      "ciudadorg": "Armenia",
+      "id": 3
+    }
+  ]
+}
